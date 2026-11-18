@@ -8,8 +8,8 @@
    "state": "up_to_date"
   },
   "breakeven": {
-   "fill": 0.8227,
-   "miles": 497,
+   "fill": 0.8767,
+   "miles": 530,
    "target": 604
   },
   "plan_value": {
@@ -25,7 +25,7 @@
    {
     "version": "2026.38.5.13",
     "fsd": "14.3.13",
-    "date": "2026-11-18",
+    "date": "2026-11-17",
     "current": true
    },
    {
@@ -72,13 +72,13 @@
  },
  "cost": {
   "month": "2026-11",
-  "miles": 497,
-  "miles_exact": 496.9,
+  "miles": 530,
+  "miles_exact": 529.5,
   "total": 115.0,
   "home_plan": 115.0,
   "sc_cost": 0,
   "other_cost": 0,
-  "gas_total": 94.67,
+  "gas_total": 100.88,
   "public_only": 66.01,
   "assumptions": {
    "gas_price": 5.525,
